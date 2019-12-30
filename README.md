@@ -1,2 +1,2 @@
 # FindThatKitten
-FindThatKitten! a game made from c++ 
+Find That Kitten! a game made from c++ 
